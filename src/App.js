@@ -29,6 +29,7 @@ function App() {
 
   return (
     <div className="App">
+      <h2>Charts</h2>
       <div style={{ width: 700 }}>
         <BarChart chartData={userData} />
       </div>
