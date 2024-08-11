@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chartjs-react-tutorial/static/css/main.abd64e84.css",
+    "main.js": "/chartjs-react-tutorial/static/js/main.e695a7b4.js",
+    "static/js/787.86fe075b.chunk.js": "/chartjs-react-tutorial/static/js/787.86fe075b.chunk.js",
+    "index.html": "/chartjs-react-tutorial/index.html",
+    "main.abd64e84.css.map": "/chartjs-react-tutorial/static/css/main.abd64e84.css.map",
+    "main.e695a7b4.js.map": "/chartjs-react-tutorial/static/js/main.e695a7b4.js.map",
+    "787.86fe075b.chunk.js.map": "/chartjs-react-tutorial/static/js/787.86fe075b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.e695a7b4.js"
+  ]
+}
