@@ -28,7 +28,7 @@ const userData = {
 function App() {
   return (
     <div className="App">
-      <h2>Charts 3</h2>
+      <h2>Charts 4</h2>
       <div style={{ width: 700 }}>
         <BarChart chartData={userData} />
       </div>

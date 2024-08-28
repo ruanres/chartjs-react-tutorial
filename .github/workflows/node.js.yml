@@ -52,7 +52,7 @@ jobs:
         with:
           path: 'build'
 
-  deploy-coverage:
+  deploy-pages:
     runs-on: ubuntu-latest
     needs: pages-setup
 
